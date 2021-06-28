@@ -1,0 +1,9 @@
+{
+  "Paperang theme": {
+    "prefix": "ptheme",
+    "body": [
+      "@normal: #292F3D;\n@sub: #8F9396;\n@disable: #B8BBC2;\n@primary: #0687FF;\n@success: #3FD4AD;\n@tips: #FF7631;\n@error: #F8554F;\n@select: #E9F6FF;\n@primary-gradient: linear-gradient(138deg, #22B5FE 0%, #0687FF 100%);\n"
+    ],
+    "description": "Paperang's theme"
+  }
+}
